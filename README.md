@@ -1,19 +1,19 @@
-Monday:
+- Monday:
     Cricket: 6 - 7:45
     Whitehatjr: 8 - 9
-Tuesday: 
+- Tuesday: 
     Piano: 4:30 - 5:30
-Wednesday:
+- Wednesday:
     Eyelevel: 5 - 6
     Cricket: 6 - 7:45
-Thursday: 
+- Thursday: 
     Free for now
-Friday: 
+- Friday: 
     Karate: 7 - 7:45
-Saturday: 
+- Saturday: 
     Karate: 8 - 8:45
     FLL depends on what time is decided.
-Sunday: 
+- Sunday: 
     Nothing for now
 
 Classes that might be added:
@@ -24,13 +24,13 @@ Classes that might be added:
 
 Notes for this week:
 
-Monday:
-Tuesday: 
-Wednesday:
-Thursday: 
-Friday: 
-Saturday: 
-Sunday: 
+-Monday:
+-Tuesday: 
+-Wednesday:
+-Thursday: 
+-Friday: 
+-Saturday: 
+-Sunday: 
 
 
 Things that I have do everyday (Summer):
